@@ -1,0 +1,1 @@
+create table users (ID int primary key. name VarChar(20));
